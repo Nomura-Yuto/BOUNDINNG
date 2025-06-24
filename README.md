@@ -7,4 +7,9 @@
 # 【ゲーム詳細】
 Switch上で動くゲームです。  
 上から落ちてくるブロックに当たらないようにJoy-Conを傾けて避けながら、  
-Joy-Conをタイミングよく振りスコアを稼いでいくゲーム。
+Joy-Conをタイミングよく振りスコアを稼いでいくゲーム。  
+  
+
+## リンク
+[GogleDrive](https://drive.google.com/drive/folders/1448gXWHaBbJeEhm4uhfqBJTlq41u9RAY?usp=drive_link)  
+[作品動画](https://drive.google.com/file/d/19ei4Dxkwtq3sL7EKSPFfORVUWfoA1LcG/view?usp=drive_link)
